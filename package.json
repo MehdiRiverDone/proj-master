@@ -1,0 +1,22 @@
+{
+  "name": "proj-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/MehdiRiverDone/proj-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/MehdiRiverDone/proj-dev/issues"
+  },
+  "homepage": "https://gitlab.com/MehdiRiverDone/proj-dev#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
